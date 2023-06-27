@@ -1,0 +1,8 @@
+Website = "https://wanderlounge.net/"
+
+[Details]
+Icon = "Icon.png"
+Name = "markit"
+ID = "net.wanderlounge.markit"
+Version = "1.0.0"
+Build = 1
